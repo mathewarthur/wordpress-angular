@@ -1,0 +1,16 @@
+<article ng-cloak vertilize class="single-post">
+	<h2>{{post.title.rendered}}</h2>
+	<img ng-if="post.better_featured_image.source_url" src="{{post.better_featured_image.source_url}}" width="100%">
+	<div bind-html-compile="post.content.rendered"></div>
+	<div>Item: {{post.acf.sku}}</div>
+	<div ng-if="post.acf.certification">Certification: {{post.acf.certification}}</div>
+	<div>Box: {{post.acf.box_quantity}}</div>
+	<div>Case: {{post.acf.case_quantity}}</div>
+	<br>
+	<h3>Features</h3>
+	<div bind-html-compile="post.acf.features"></div>
+	<h3>Specifications</h3>
+	<div bind-html-compile="post.acf.material_and_parts"></div>
+	<img ng-if="post.acf.parts_photo" src="{{post.acf.parts_photo}}" width="100%">
+	<img ng-if="post.acf.related_products_photo" src="{{post.acf.related_products_photo}}" width="100%">
+</article>

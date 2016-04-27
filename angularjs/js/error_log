@@ -1,0 +1,159 @@
+[18-Apr-2016 09:30:25 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_stylesheet_directory_uri() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:31:18 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_stylesheet_directory_uri() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:31:38 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_stylesheet_directory_uri() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:32:25 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_stylesheet_directory_uri() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:34:20 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_template_directory() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:34:22 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_template_directory() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:35:06 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_template_directory() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:35:47 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(../themes/wtfaffect/angularjs-templates): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('../themes/wtfaf...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:35:48 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(../themes/wtfaffect/angularjs-templates): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('../themes/wtfaf...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:36:01 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(wp-content/themes/wtfaffect/angularjs-templates): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('wp-content/them...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:38:06 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(get_template_directory()): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('get_template_di...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 16:40:07 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(get_template_directory()): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:283
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(283): DirectoryIterator->__construct('get_template_di...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 283
+[18-Apr-2016 16:40:11 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(get_template_directory()): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:283
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(283): DirectoryIterator->__construct('get_template_di...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 283
+[18-Apr-2016 16:40:27 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(get_template_directory()): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:283
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(283): DirectoryIterator->__construct('get_template_di...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 283
+[18-Apr-2016 16:40:28 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'DirectoryIterator::__construct(get_template_directory()): failed to open dir: No such file or directory' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:283
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(283): DirectoryIterator->__construct('get_template_di...')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 283
+[18-Apr-2016 09:42:34 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_template_directory() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:35 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_template_directory() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:47 America/Los_Angeles] PHP Notice:  Undefined index: theme_absolute in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:47 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:48 America/Los_Angeles] PHP Notice:  Undefined index: theme_absolute in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:48 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:49 America/Los_Angeles] PHP Notice:  Undefined index: theme_absolute in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:49 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:50 America/Los_Angeles] PHP Notice:  Undefined index: theme_absolute in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:42:50 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:43:00 America/Los_Angeles] PHP Notice:  Undefined index: theme_absolute in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:43:00 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:43:01 America/Los_Angeles] PHP Notice:  Undefined index: theme_absolute in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:43:01 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:43:02 America/Los_Angeles] PHP Notice:  Undefined index: theme_absolute in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:43:02 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:14 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:14 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:15 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:15 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:15 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:15 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:16 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:16 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:18 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:46:18 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs-for-wp/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:50:14 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:50:14 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:54:07 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:54:07 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:54:46 America/Los_Angeles] PHP Warning:  constant(): Couldn't find constant THEME_ABS in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 282
+[18-Apr-2016 09:54:46 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Directory name must not be empty.' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php:282
+Stack trace:
+#0 /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php(282): DirectoryIterator->__construct('')
+#1 {main}
+  thrown in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 282
+[18-Apr-2016 11:05:44 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 66
+[18-Apr-2016 11:06:14 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 66
+[18-Apr-2016 11:06:26 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '?>' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 66
+[18-Apr-2016 11:07:24 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:10:53 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:14:02 America/Los_Angeles] PHP Fatal error:  Call to undefined function ReturnOption() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:14:33 America/Los_Angeles] PHP Fatal error:  Call to undefined function ReturnOption() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:16:19 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:17:56 America/Los_Angeles] PHP Warning:  include_once(../../../wp-includes/option.php): failed to open stream: No such file or directory in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:17:56 America/Los_Angeles] PHP Warning:  include_once(): Failed opening '../../../wp-includes/option.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:17:56 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 4
+[18-Apr-2016 11:18:04 America/Los_Angeles] PHP Fatal error:  Call to undefined function apply_filters() in /home/hu8673/public_html/affecttheorymu/wp-includes/option.php on line 52
+[18-Apr-2016 11:18:09 America/Los_Angeles] PHP Fatal error:  Call to undefined function apply_filters() in /home/hu8673/public_html/wp-includes/option.php on line 49
+[18-Apr-2016 11:18:26 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 5
+[18-Apr-2016 11:18:40 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 5
+[18-Apr-2016 11:19:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 2
+[18-Apr-2016 11:20:34 America/Los_Angeles] PHP Fatal error:  Call to undefined function update_option() in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:23:00 America/Los_Angeles] PHP Notice:  Use of undefined constant FILE - assumed 'FILE' in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:23:00 America/Los_Angeles] PHP Warning:  require_once(.../../../../wp-config.php): failed to open stream: No such file or directory in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3
+[18-Apr-2016 11:23:00 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required '.../../../../wp-config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/hu8673/public_html/affecttheorymu/wp-content/plugins/angularjs/js/angular-posts-directives.php on line 3

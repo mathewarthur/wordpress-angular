@@ -1,0 +1,9 @@
+<article ng-cloak class="archive-post archive-category">
+	<img src="{{post.acf.category_image.sizes.medium_large}}" width="100%">
+	<h3>{{post.name}}</h3>
+	<div bind-html-compile="post.acf.category_short_description"></div>
+	<p>
+		<a class="button" href="{{post.link}}">View Products</a>
+	</p>
+	<span class="clear"></div>
+</article>

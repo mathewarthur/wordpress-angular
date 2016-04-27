@@ -1,0 +1,13 @@
+<article ng-cloak vertilize data-categories="{{post.categories}}" class="archive-post" onclick="go(this)">
+	<img src="{{post.better_featured_image.media_details.sizes.medium_large.source_url}}" width="100%">
+	<h3>{{post.title.rendered}}</h3>
+	<ul class="categories">
+		<li ng-repeat="item in post.pure_taxonomies.categories | filter: {slug: '!uncategorized'}">
+			<a href="category/{{item.slug}}">{{item.name}}</a>
+		</li>
+	</ul>
+	<p>
+		<a class="button" href="{{post.link}}">View Product</a>
+	</p>
+	<span class="clear"></div>
+</article>
